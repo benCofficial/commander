@@ -1,5 +1,5 @@
 {
-  "name": "Commander 4",
+  "name": "Brownie Simulator Moderation Panel",
   "tree": {
     "$className": "DataModel",
     "ServerScriptService": {
